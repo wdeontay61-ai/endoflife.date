@@ -28,13 +28,13 @@ releases:
 -   releaseCycle: "16"
     apiVersion: "36"
     codename: Baklava
-    releaseDate: 2025-06-10
+    releaseDate: 2025-07-08
     eol: false
 
 -   releaseCycle: "15"
     apiVersion: "35"
     codename: Vanilla Ice Cream
-    releaseDate: 2024-09-03
+    releaseDate: 2024-10-15
     eol: false
 
 -   releaseCycle: "14"
@@ -60,7 +60,7 @@ releases:
 -   releaseCycle: "12"
     apiVersion: "31"
     codename: Snow Cone
-    releaseDate: 2021-10-04
+    releaseDate: 2021-10-19
     eol: 2025-03-03
 
 -   releaseCycle: "11"
@@ -99,7 +99,7 @@ releases:
 -   releaseCycle: "7.1"
     apiVersion: "25"
     codename: Nougat
-    releaseDate: 2016-12-01
+    releaseDate: 2016-10-04
     eol: 2019-10-01
     link: https://developer.android.com/about/versions/nougat
 
@@ -120,7 +120,7 @@ releases:
 -   releaseCycle: "5.1"
     apiVersion: "22"
     codename: Lollipop
-    releaseDate: 2015-03-01
+    releaseDate: 2015-03-09
     eol: 2018-03-01
     link: https://developer.android.com/about/versions/lollipop
 
